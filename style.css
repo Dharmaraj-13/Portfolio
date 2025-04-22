@@ -67,7 +67,7 @@ body{
 }
 
 .sidebar.open-sidebar {
-    animation: openSidebarAnimation 1.5s forwards;
+    animation: openSidebarAnimation 0.8s forwards;
 }
 
 @keyframes openSidebarAnimation {
@@ -80,7 +80,7 @@ body{
 }
 
 .sidebar.close-sidebar{
-    animation: closeSidebarAnimation 1.5s forwards;
+    animation: closeSidebarAnimation 0.8s forwards;
 }
 
 @keyframes closeSidebarANimation{
