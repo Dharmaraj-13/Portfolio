@@ -553,10 +553,8 @@ box-shadow: 0 0 15px #0e29f4b4;
 }
   
 
-
-
 footer{
-    height: 180px;
+    height: 100%;
     background-color: #3e04a921;
     width: 100%;
     border-radius: 20px 20px 0px 0px;
